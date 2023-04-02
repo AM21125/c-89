@@ -1,0 +1,46 @@
+body
+{
+	background: maroon;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(133, 167, 200);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name_input , #player2_name_input
+{
+	display: inline-block;
+	margin-left: 0px;
+    color: rgb(23, 22, 22);
+    background-color: lightblue;
+}
+h1
+{
+    color:goldenrod;
+}
+h3
+{
+    color:rgb(10, 17, 218);
+}
+#u1
+{
+    color:rgb(195, 24, 24);
+}
+#u2
+{
+    color:rgb(30, 148, 30);
+}
+.btn_login
+{
+	width:250px;
+	height:35px;
+	background-color: rgb(59, 113, 213);
+	color:white;
+	border-radius: 10px 100px / 120px;
+	border-color: whitesmoke;
+}
